@@ -1,31 +1,73 @@
-# Usuporte :: 
+# Welcome to your Lovable project
 
+## Project info
 
-Criar um projeto de startup é uma jornada emocionante e desafiadora. Aqui estão algumas etapas e dicas essenciais para desenvolver um projeto de startup:
+**URL**: https://lovable.dev/projects/9eab0e32-a99e-49cd-b025-7011975f69cd
 
-1. Identificação da Ideia
-Identifique um Problema: Busque problemas reais que precisam de solução. Converse com pessoas, faça pesquisas e identifique lacunas no mercado.
-Desenvolva uma Solução: Elabore uma ideia que resolva o problema identificado. Pense em como sua solução se destaca da concorrência.
-2. Pesquisa de Mercado
-Análise de Concorrência: Estude os concorrentes existentes e suas ofertas. Entenda seus pontos fortes e fracos.
-Público-Alvo: Defina quem são seus clientes ideais e crie personas para entender melhor suas necessidades e comportamentos.
-3. Modelo de Negócio
-Escolha um Modelo: Decida como sua startup irá gerar receita (venda direta, assinatura, freemium, etc.).
-Proposta de Valor: Elabore uma proposta clara que comunique os benefícios da sua solução.
-4. Desenvolvimento do Produto
-MVP (Produto Mínimo Viável): Crie uma versão simplificada do seu produto para testar suas hipóteses. O MVP deve ter apenas as funcionalidades essenciais.
-Feedback dos Usuários: Colete feedback de usuários reais para iterar e melhorar seu produto.
-5. Planejamento Financeiro
-Orçamento: Estime os custos iniciais e as despesas operacionais. Considere desenvolvimento, marketing, e outros custos.
-Captação de Recursos: Avalie opções de financiamento, como investidores-anjo, capital de risco ou crowdfunding.
-6. Marketing e Lançamento
-Estratégia de Marketing: Desenvolva um plano para promover sua startup, usando estratégias de marketing digital, redes sociais e parcerias.
-Lançamento: Crie um evento ou campanha de lançamento para gerar buzz e atrair seus primeiros usuários.
-7. Escalabilidade
-Crescimento: Planeje como você irá escalar sua startup conforme ela cresce. Considere tecnologia, operações e equipe.
-Métricas: Estabeleça KPIs (indicadores-chave de desempenho) para medir o sucesso e ajuste sua estratégia conforme necessário.
-8. Adaptação e Iteração
-Feedback Contínuo: Continue coletando feedback e esteja disposto a fazer ajustes no seu produto e modelo de negócios.
-Inovação: Mantenha-se atualizado sobre tendências de mercado e novas tecnologias que possam impactar sua startup.
-Conclusão
-Iniciar uma startup é um processo dinâmico que exige resiliência e adaptação. Foque em resolver problemas reais e esteja disposto a aprender com os feedbacks dos usuários. Se precisar de ajuda com alguma etapa específica ou quiser discutir sua ideia, estou aqui para ajudar!
+## How can I edit this code?
+
+There are several ways of editing your application.
+
+**Use Lovable**
+
+Simply visit the [Lovable Project](https://lovable.dev/projects/9eab0e32-a99e-49cd-b025-7011975f69cd) and start prompting.
+
+Changes made via Lovable will be committed automatically to this repo.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/9eab0e32-a99e-49cd-b025-7011975f69cd) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
